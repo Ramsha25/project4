@@ -1,0 +1,20 @@
+.serve{
+    list-style-type: none;
+}
+#id2{
+    padding: 10px;
+}
+.sec1{
+    background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+}
+.img{
+    width: 75px;
+height: 75px;
+top: 1021px;
+left: 66px;
+gap: 0px;
+opacity: 0px;
+}
+#id4{
+    font-size: 60px;
+}
